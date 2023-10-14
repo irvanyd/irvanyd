@@ -1,11 +1,21 @@
-# Halo semua! 
+### Hi! 👋 I'm Irvan.
 
-Perkenalkan nama saya **Irvan Yudha Andika**.<br>
+I am an Informatics Engineering student at <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika** di **Universitas Semarang**.<br>
+Currently I am preparing my final project with the theme Web Applications and learning various other things including coding.<br>
 
-Saya sedang menyusun tugas akhir saya dengan tema **Web Aplication** dan belajar berbagai hal lain termasuk coding.<br>
+I am also currently participating in the <a href="https://aws.dicoding.com/">DevOps and Back-End Developer Scholarship</a> program hosted by Dicoding Academy x AWS.<br>
 
-Saya saat ini juga ikut program **DevOps and Back-End Developer Scholarship Program** yang diselenggarakan oleh **Dicoding Academy x AWS**
+### Github Statistic
+<p align="left">
+<a href="https://github.com/irvanyd/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://id.linkedin.com/in/irvan-yudha-andika-82419b204)ku ya.
+### Reach me on
+- <a href="https://id.linkedin.com/in/irvan-yudha-andika-82419b204">LinkedIn</a>
+- <a href="https://indodigitalmedia.blogspot.com/">Web Blog</a>
+- irvanyudha999@gmail.com
+- <a href="https://twitter.com/irvnyd">Twitter</a>
