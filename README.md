@@ -2,7 +2,7 @@
 
 I am an Informatics Engineering student at <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
 
-Currently I am preparing my final project with the theme Web Applications and learning various other things including coding.<br>
+Currently I am preparing my final project with the theme Web Applications for educational institutions and learning various other things including coding.<br>
 
 I am also currently participating in the <a href="https://aws.dicoding.com/">DevOps and Back-End Developer Scholarship</a> program hosted by Dicoding Academy x AWS.<br>
 
