@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Irvan.
 
-I am an Informatics Engineering student at <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
+I am a fresh graduate from the Informatics Engineering Study Program at Semarang University <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
 
 Currently I am preparing my final project with the theme Web Applications for educational institutions and learning various other things including coding.<br>
 
