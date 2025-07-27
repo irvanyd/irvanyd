@@ -1,10 +1,8 @@
-### Hi! 👋 I'm Irvan.
+### Hi! I'm Irvan.
 
-I am a fresh graduate from the Informatics Engineering Study Program at <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
+Informatics Engineering graduate from <a href="https://usm.ac.id/id/">Semarang University</a>.<br>
 
-Currently I am preparing my final project with the theme Web Applications for educational institutions and learning various other things including coding.<br>
-
-I am also currently participating in the <a href="https://aws.dicoding.com/">DevOps and Back-End Developer Scholarship</a> program hosted by Dicoding Academy x AWS.<br>
+IT Infrastructure at PT Hwaseung Indonesia 2 | Internal IT Auditor | Networking, Programming, & Design<br>
 
 ### Github Statistic
 <p align="left">
