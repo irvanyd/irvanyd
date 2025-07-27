@@ -15,6 +15,6 @@ IT Infrastructure at PT Hwaseung Indonesia 2 | Internal IT Auditor | Networking,
 ### Reach me on
 - <a href="https://id.linkedin.com/in/irvan-yudha-andika-82419b204">LinkedIn</a>
 - <a href="https://indodigitalmedia.blogspot.com/">Web Blog</a>
-- irvanyudha999@gmail.com
+- irvan.it.p@hsinni.com
 - <a href="https://twitter.com/irvnyd">Twitter</a>
 - <a href="https://www.instagram.com/irvanyd_/">Instagram</a>
